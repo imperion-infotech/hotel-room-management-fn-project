@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+/* Tailwind is handled by CDN in this specific setup, but we add our custom font classes here */
+
+.font-serif {
+  font-family: 'Playfair Display', serif;
+}
