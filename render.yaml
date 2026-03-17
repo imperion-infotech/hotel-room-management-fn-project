@@ -1,0 +1,7 @@
+services:
+  - type: static
+    name: hotel-room-management
+    env: static
+    buildCommand: npm install && npm run build
+    publishPath: ./dist
+    autoDeploy: true
